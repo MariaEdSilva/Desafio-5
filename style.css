@@ -1,0 +1,20 @@
+
+
+
+#titulo {
+    text-align: center;
+}
+
+#tabela {
+    border-collapse: collapse;
+    width: 90%;
+}
+
+.celula, .linha {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+.celula{
+    background-color: #f2f2f2;
+}
